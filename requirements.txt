@@ -1,0 +1,4 @@
+flask>=1.0
+numpy>=1.18
+opencv-contrib-python>=4.2
+imutils>=0.5
